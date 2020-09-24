@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         textViewResultado=findViewById(R.id.textViewResultado);
 
         //texto=findViewById(R.id.textViewCartel);
-
+//
         miboton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
